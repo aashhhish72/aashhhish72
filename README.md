@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ashish Yeole 👋
 
-<!--
-**aashhhish72/aashhhish72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BSc Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+🎓 Third Year BSc Computer Science Student
+💻 Interested in Software Development
+🌱 Learning Python, Flask and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- Languages: Python, JavaScript, SQL
+- Frontend: HTML, CSS
+- Backend: Flask
+- Database: PostgreSQL, SQLite
+- Tools: Git, GitHub, VS Code
+
+## 🚀 My Projects
+
+### 1. TradeX - Paper Trading Platform
+A paper trading platform built using Flask
+and PostgreSQL.
+
+### 2. Gym Management System
+A gym management application built using
+Python Flask and SQLite.
+
+## 🎯 Currently Learning
+- Data Structures and Algorithms
+- Python Development
+- Backend Development
+- Database Management
+
+## 📫 Connect With Me
+- Email: [aashishyeole396@gmail.com]
